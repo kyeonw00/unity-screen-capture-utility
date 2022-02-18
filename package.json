@@ -1,0 +1,19 @@
+{
+    "name": "com.kyeonw00.unity-screen-capture-utility",
+    "version": "0.0.1",
+    "displayName": "Screen Capture Utility",
+    "description": "",
+    "unity": "2020.3",
+    "dependencies": {},
+    "keywords": [
+      "screen",
+      "capture",
+      "utility"
+    ],
+    "author": {
+      "name": "ByeongJun Kang",
+      "email": "altair3873.luna@gmail.com",
+      "url": "https://github.com/kyeonw00/unity-screen-capture-utility"
+    },
+    "samples": []
+  }
